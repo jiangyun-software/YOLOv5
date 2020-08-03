@@ -1,4 +1,4 @@
-## YOLOv5 for defect detection
+## YOLOv5 for Defect Detection
 
 This repository comes from the Ultralytics' open-source YOLO repo https://github.com/ultralytics/yolov5. Here this YOLOv5 repo is adopted to detect defects based on our client datasets.
 
